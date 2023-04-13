@@ -1,8 +1,6 @@
 package com.leetcode.algorithm1;
 
 import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
 
 public class SecondHighest {
     public static void main(String[] args) {
