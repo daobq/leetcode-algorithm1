@@ -1,4 +1,4 @@
-package com.leetcode.algorithm1;
+package com.leetcode.algorithm1.twopointers;
 
 import java.util.Arrays;
 import java.util.LinkedList;
