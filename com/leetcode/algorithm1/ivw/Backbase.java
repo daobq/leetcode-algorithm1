@@ -1,10 +1,10 @@
-package com.leetcode.algorithm1.backbase;
+package com.leetcode.algorithm1.ivw;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 
-public class Solution {
+public class Backbase {
     public static void main(String[] args) {
         System.out.println(changeDirectoryString("/test/task/java", "cd ../.."));
     }

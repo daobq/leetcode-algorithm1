@@ -1,4 +1,4 @@
-package com.leetcode.algorithm1.interview;
+package com.leetcode.algorithm1.ivw;
 
 import com.leetcode.algorithm1.common.Employee;
 
