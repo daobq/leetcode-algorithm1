@@ -11,7 +11,7 @@ public class EmployeeImportantValue {
     public static void main(String[] args) {
 
     }
-    public int getImportance(List<src.main.java.algorithm1.common.Employee> employees, int id) {
+    public int getImportance(List<Employee> employees, int id) {
         // create a map to store the employees by their IDs for efficient lookup
         Map<Integer, Employee> employeeMap = new HashMap<>();
         for (Employee employee : employees) {
